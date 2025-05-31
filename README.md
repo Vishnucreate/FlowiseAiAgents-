@@ -2,7 +2,7 @@
 This is an adopted repo from flowise I am just implementing
 Please do not use nodejs 22 it will throw an error 
 
-if it's npm and your are using Powershell make sure you run the appropriate powershell commands or else it will throw error
+if it's npm and your are using Powershell make sure you run the appropriate powershell Administrative commands or else it will throw error
 
 Here is a screenshot of one of the errors 
 
